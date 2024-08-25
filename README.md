@@ -59,3 +59,28 @@ Thank you for exploring **Lost Knight**! I hope you enjoy the game and find it a
 
 Happy adventuring!
 
+## Credits
+
+**Models Used in Lost Knight**:
+
+1. **Sheath**
+   - **Source**: [Sheath](https://sketchfab.com/3d-models/sheath-2e7c82fab0af4a76be43e6a5adf09bb1)
+   - **Author**: [Zorgot](https://sketchfab.com/Zorgot)
+   - **License**: [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
+   - **Credit**: This work is based on "[Sheath](https://sketchfab.com/3d-models/sheath-2e7c82fab0af4a76be43e6a5adf09bb1)" by [Zorgot](https://sketchfab.com/Zorgot) licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).
+
+2. **DRAGON SHIELD**
+   - **Source**: [DRAGON SHIELD](https://sketchfab.com/3d-models/dragon-shield-c3c301cfbf4a48589db6793d77b2c646)
+   - **Author**: [Adriancgmask](https://sketchfab.com/Adriancgmask)
+   - **License**: [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
+   - **Credit**: This work is based on "[DRAGON SHIELD](https://sketchfab.com/3d-models/dragon-shield-c3c301cfbf4a48589db6793d77b2c646)" by [Adriancgmask](https://sketchfab.com/Adriancgmask) licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).
+
+3. **Chevalier Sword**
+   - **Source**: [Chevalier Sword](https://sketchfab.com/3d-models/chevalier-sword-b2662f2666a844e8a1bd0e7c4a7672d8)
+   - **Author**: [rubenve](https://sketchfab.com/rubenve)
+   - **License**: [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
+   - **Credit**: This work is based on "[Chevalier Sword](https://sketchfab.com/3d-models/chevalier-sword-b2662f2666a844e8a1bd0e7c4a7672d8)" by [rubenve](https://sketchfab.com/rubenve) licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).
+
+
+
+
